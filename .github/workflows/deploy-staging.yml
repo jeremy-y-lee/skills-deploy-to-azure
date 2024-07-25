@@ -7,7 +7,7 @@ on:
 env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
-  ### Replace <username> with GitHub username ###
+  ### Replace <username> with GitHub username: jeremy-y-lee ###
   ###############################################
   DOCKER_IMAGE_NAME: jeremy-y-lee-azure-ttt
   AZURE_WEBAPP_NAME: jeremy-y-lee-ttt-app
